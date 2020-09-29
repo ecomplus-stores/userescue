@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": " #StayHome  Faça sua compra online e receba sem sair de casa <3"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": " Até 12x  Com cartões de crédito"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": " Trocas  3 dias para troca, verificar regras!"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": " #Juntos  Mesmo separados estamos todos juntos nessa !"
   }
 }
