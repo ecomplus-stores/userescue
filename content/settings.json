@@ -1,23 +1,23 @@
 {
-  "store_id": 1167,
-  "name": "userescue",
   "domain": "userescue.netlify.app",
-  "short_name": "userescue",
-  "description": "userescue",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#fdca01",
+  "logo": "/img/uploads/logo-2072282391-1588918408-82c7bd89ee862fe4c4afb0bf75ef1a941588918408-320-0.png",
+  "name": "Rescue",
+  "short_name": "Rescue",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-486329557-1588918471-236af742fdcef598523549f4650c3ab21588918472.png",
+  "country_code": "BR",
+  "secondary_color": "#fdca01",
+  "icon": "/img/uploads/logo-486329557-1588918471-236af742fdcef598523549f4650c3ab21588918472.png",
+  "store_id": 1167,
+  "description": "Rescue",
+  "large_icon": "/img/uploads/logo-486329557-1588918471-236af742fdcef598523549f4650c3ab21588918472.png"
 }
