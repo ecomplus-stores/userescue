@@ -5,17 +5,8 @@
     "background": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
+    "pages": [],
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
