@@ -87,12 +87,8 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/img-279827023-1600122934-c35484265f38f0d006976e7cc88dd2171600122934.png"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/img-279827023-1600122934-c35484265f38f0d006976e7cc88dd2171600122934.png"
     },
     {
       "type": "page-title",
