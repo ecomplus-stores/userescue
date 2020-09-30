@@ -85,6 +85,26 @@
           "img": "/img/uploads/slide-1583726533583-5103124327-a59dc87ee5a9350f4f74fe2c824f34951583726536.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/img-279827023-1600122934-c35484265f38f0d006976e7cc88dd2171600122934.png"
+        }
+      ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"container-fluid\">\n    <div class=\"row justify-content-center\">\n        <div class=\"col-md-8 col-lg-6 text-center\">\n            <div class=\"js-newsletter newsletter\">\n                <div class=\"mb-4 text-uppercase\">Newsletter</div>\n                <h3 class=\"h1 mb-4\">Receba todas as promoções</h3>\n                <p>Quer receber nossas ofertas? Cadastre-se e comece a recebê-las!</p>\n\n\n                <form class=\"mt-5\" method=\"post\" action=\"/winnie-pooh\" onsubmit=\"$(this).attr('action', '');\">\n                    <div class=\"input-append\">\n\n\n                        <div class=\"form-group \">\n                            <input type=\"\" id=\"email\" class=\"form-control form-control-big \" autocorrect=\"off\"\n                                autocapitalize=\"off\" name=\"email\" placeholder=\"E-mail\" aria-label=\"E-mail\">\n                        </div>\n\n\n\n                        <div class=\"winnie-pooh\" style=\"display: none;\">\n                            <label for=\"winnie-pooh-newsletter\">Não preencher este campo</label>\n                            <input id=\"winnie-pooh-newsletter\" type=\"text\" name=\"winnie-pooh\">\n                        </div>\n                        <input type=\"hidden\" name=\"name\" value=\"Sem nome\">\n                        <input type=\"hidden\" name=\"message\" value=\"Pedido de inscrição na newsletter\">\n                        <input type=\"hidden\" name=\"type\" value=\"newsletter\">\n                        <input type=\"submit\" name=\"contact\" class=\"btn newsletter-btn\" value=\"Enviar\">\n                        <svg class=\"icon-inline newsletter-btn svg-icon-primary\" xmlns=\"http://www.w3.org/2000/svg\"\n                            viewBox=\"0 0 448 512\">\n                            <path\n                                d=\"M216.464 36.465l-7.071 7.07c-4.686 4.686-4.686 12.284 0 16.971L387.887 239H12c-6.627 0-12 5.373-12 12v10c0 6.627 5.373 12 12 12h375.887L209.393 451.494c-4.686 4.686-4.686 12.284 0 16.971l7.071 7.07c4.686 4.686 12.284 4.686 16.97 0l211.051-211.05c4.686-4.686 4.686-12.284 0-16.971L233.434 36.465c-4.686-4.687-12.284-4.687-16.97 0z\">\n                            </path>\n                        </svg>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<a href=\"https://www.instagram.com/userescue/\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-instagram\"></i> </a>\n<h3 class=\"h1-md instafeed-user text-primary\">userescue</h3>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'userescue',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 6,\n            'items_per_row': 6,\n            'margin': 1\n        });\n    })();\n</script>"
     }
   ]
 }
