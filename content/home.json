@@ -95,8 +95,8 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<a href=\"https://www.instagram.com/userescue/\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-instagram\"></i> </a>\n<h3>userescue</h3>"
+      "type": "page-title",
+      "title": "userescue"
     },
     {
       "type": "custom-html",
