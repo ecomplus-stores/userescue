@@ -7,17 +7,35 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/slide-1600122572707-3475501541-3ba176d7a1d8fb3f22ff77b3e0dab12e1600122579-1920-1920.png",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": ""
+        },
+        {
+          "img": "/img/uploads/slide-1600122491404-7698689281-24c5fee7a806bddf5acc396bf489e5971600122500-1920-1920.png",
+          "alt": "Liquida Inverno",
+          "start": "",
+          "end": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slide-1600122572707-4501494053-a45d7edf5cfb3e013b3d213d66f887031600122580-1920-1920.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slide-1600122617019-897981013-3fb51cd144c50dbdcf48c037e5acfd861600122619-1920-1920.png",
+          "alt": "Peças Autorais Rescue"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slide-1588972846170-582435683-05df55d10cb7232dec45359ea65a2cc31588972855-1920-1920.png",
+          "alt": "Fique em casa Rescue",
+          "link": "/pages/fiqueemcasa/"
         }
       ]
     },
@@ -29,6 +47,18 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/img-1605246783-1600122864-a5fca1735019be4f057ceddbe26fca9e1600122864.png",
+          "alt": "Vintage Rescue"
+        },
+        {
+          "img": "/img/uploads/img-149770353-1600122865-4b3abb97c0fd56eaa6aaa88a35060abc1600122866.png"
+        }
+      ]
     }
   ]
 }
