@@ -59,6 +59,32 @@
           "img": "/img/uploads/img-149770353-1600122865-4b3abb97c0fd56eaa6aaa88a35060abc1600122866.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/slide-1583726533583-7163710228-5a3d8e0d2420985fa747f074885f93ab1583726536.png"
+        },
+        {
+          "img": "/img/uploads/slide-1583726533583-3742997135-95a173337a6c326fd6a2b9837a92b9ac1583726537.png"
+        },
+        {
+          "img": "/img/uploads/slide-1583726533583-7615546138-a439d868bcedef541de3b378824c026a1583726538.png"
+        },
+        {
+          "img": "/img/uploads/slide-1583726533583-1570046730-0dccc392814419d1d50f3e58ed64c0c51583726539.png"
+        },
+        {
+          "img": "/img/uploads/slide-1583726533583-452015444-45e96b7b382b3d98047cd31ca61a55461583726541.png"
+        },
+        {
+          "img": "/img/uploads/slide-1584399232592-6699632372-8b83aad5d9f2cbe1882fd1f102ae4afd1584399233.png"
+        },
+        {
+          "img": "/img/uploads/slide-1583726533583-5103124327-a59dc87ee5a9350f4f74fe2c824f34951583726536.png"
+        }
+      ]
     }
   ]
 }
