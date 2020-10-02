@@ -89,7 +89,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"instagran_title\">\n    <a href=\"https://www.instagram.com/userescue/\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-instagram\"></i> </a>\n\n    <div class=\"page-title__head\">\n        <h1 class=\"my-0\">userescue</h1>\n    </div>\n</div>"
+      "html": "<div class=\"instagram_title\">\n    <a href=\"https://www.instagram.com/userescue/\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-instagram\"></i> </a>\n\n    <div class=\"page-title__head\">\n        <h1 class=\"my-0\">userescue</h1>\n    </div>\n</div>"
     },
     {
       "type": "custom-html",
