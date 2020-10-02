@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar {\n    background-color: #222831 !important;\n   \n}\n\n.header{\n    background-color: #fcce66;\n}",
   "html_head": "",
   "html_body": ""
 }
