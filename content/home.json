@@ -88,8 +88,8 @@
       "img": "/img/uploads/img-279827023-1600122934-c35484265f38f0d006976e7cc88dd2171600122934.png"
     },
     {
-      "type": "page-title",
-      "title": "userescue"
+      "type": "custom-html",
+      "html": "<div class=\"instagran_title\">\n    <a href=\"https://www.instagram.com/userescue/\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-instagram\"></i> </a>\n\n    <div class=\"page-title__head\">\n        <h1 class=\"my-0\">userescue</h1>\n    </div>\n</div>"
     },
     {
       "type": "custom-html",
